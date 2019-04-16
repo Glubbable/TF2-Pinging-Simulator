@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sprites/pingsimulator/discordping2"
+
+	"$decal" "1"
+	"$decalscale" "0.25"
+
+	"%keywords" "tf"
+
+	"$receiveflashlight"    "0"
+	"$singlepassflashlight" "0"
+	"$alphatest" "1"
+	"$translucent" "1"
+	"$vertexalpha" "1"
+}
