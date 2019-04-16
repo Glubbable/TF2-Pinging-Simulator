@@ -1,4 +1,4 @@
-# [TF2] Pinging Simulator!
+# [ANY] Pinging Simulator!
 Allows you / others to experience the joys of ping spam!
 Comes with a config system so you can configure up to 32 possible pings.
 #WARNING: Try to avoid mass pinging on maps with high edict counts, you'll probably crash the server.
