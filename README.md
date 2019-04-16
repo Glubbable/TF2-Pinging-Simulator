@@ -1,7 +1,9 @@
 # [SOURCE] Pinging Simulator!
-Allows you / others to experience the joys of ping spam!
-Comes with a config system so you can configure up to 32 possible pings.
-#WARNING: Try to avoid mass pinging on maps with high edict counts, you'll probably crash the server.
+- Allows you / others to experience the joys of ping spam!
+- Comes with a config system so you can configure up to 32 possible pings.
+
+### WARNING:
+- Try to avoid mass pinging on maps with high edict counts, you'll probably crash the server.
 
 # Commands
 ### sm_pingsim (target, index, count)
