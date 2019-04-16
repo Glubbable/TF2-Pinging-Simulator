@@ -1,6 +1,7 @@
-# [SOURCE] Pinging Simulator!
+# Pinging Simulator!
 - Allows you / others to experience the joys of ping spam!
 - Comes with a config system so you can configure up to 32 possible pings.
+- Can pretty much work in any Source Engine Game. (I hope).
 
 ### WARNING:
 - Try to avoid mass pinging on maps with high edict counts, you'll probably crash the server.
